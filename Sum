@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  
+  int N  , M;
+  cin >> N >> M;
+
+  int soma = N + M;
+  cout << soma << endl;
+
+  return 0;
+}
